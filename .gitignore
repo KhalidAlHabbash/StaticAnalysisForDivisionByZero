@@ -1,0 +1,12 @@
+# Could be deleted later if unnecessary
+/out/
+
+
+.idea/*
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+/target/
